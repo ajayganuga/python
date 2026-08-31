@@ -42,12 +42,13 @@ age_str = int (input("How old are you?"))
 '''
 # Example
  
-number = input("enter number:")
+number = input("enter number:")   
+
 print(type(number)) 
 
 number1 = int(input("enter any number:"))
 print (type(number1))
-
+  
 ## syntax for float input
 '''
 flloat input :
