@@ -11,10 +11,12 @@
 # --> file
 # --> flush
 
+
 # '''
 # # 1.*objects
 
 data = (20,30,40,50,60,)
+
 print (*data)
 
 # # 2. separate
