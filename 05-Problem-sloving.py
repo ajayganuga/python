@@ -12,6 +12,7 @@ Input and Output, Variable, Arithmetic Operators.
 '''
 num1 = int(input("Enter value of num 1:"))
 num2 = int(input("Enter value of num 2:"))
+
 print("sum:",num1+num2,sep="")
 print(f"sum:{num1+num2}")
 
